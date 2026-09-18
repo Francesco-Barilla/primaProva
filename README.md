@@ -8,7 +8,6 @@ Questo è una **prova**
 
 ***Questa è una prova***
 
-- ciao
-  uno
-  due
-  tre
+- uno
+- due
+- tre
